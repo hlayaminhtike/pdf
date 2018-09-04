@@ -1,11 +1,11 @@
 # pdf
 This is word file and power point.
 
-						A PROJECT REPORT ON
-						“APPs in Myanmar”
-							For
-						Company Name
-				GEO MANDALAR INVESTMENT & TECHNOLOGY Co.. ltd
+A PROJECT REPORT ON
+“APPs in Myanmar”
+For
+Company Name
+GEO MANDALAR INVESTMENT & TECHNOLOGY Co.ltd
 Director
 U Ravi Chhabra
 SUPERVISOR
@@ -74,38 +74,13 @@ Abstract
 	Users can easily download in this website
 	FrontEnd Dev and UI  Mockups using Material Design ( HTML, CSS, & Javascript  )
 	These applications were also developed with firebase hosting and database.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	
 Acknowledgement
 First, we would like to thankful greatly following persons who have contributed directly or indirectly towards the success of this project.
 We would like to respectfully thanks U Kyaw Swar Soe, Rector of Computer University ( Mandalay ), Dr. San San Tin,Pro Rector of Computer University(Mandalay), Dr. Aye Aye Chaw , and Dr. Mya Thida Kyaw,  for his kind permission to carry out this project, general guidance and workable environment during the period of study.
 We would like to express our Director, U Ravi Chhabra, Director of our Geo-Delta-Mdy group, for his guide way to create our project with successfully and nicely.
 We also wish to express our Supervisor, Daw Ank Phyu Win, Lecture of faculty of Computing, Computer University ( Mandalay ), for her helpful advice, helpful encouragement numerous invaluable suggestion and comments.
 We also great full to all out teachers for Computer University ( Mandalay ) who have taught and guided us during the period of study. Finally, we are thankful to our follow members who work together in this project and we also thanks again for the unity.
-
-
-
-
-
-
-
-
-
-
 
 Declaration
 	The information contained in these applications in Myanmar are true, correct and complete.
@@ -115,18 +90,6 @@ Declaration
 Project Details
 Project Title	Apps in Myanmar
 Project ID	Geo-Mandalar Company Internship
-
-
-
-
-
-
-
-
-
-
-
-
 
 List of Figure
 
@@ -142,15 +105,6 @@ Figure 5.2						page-25
 Figure 6						page-26
 Figure 6.1						page-26
 
-
-
-
-
-
-
-
-
-
 Chapter 1
 Introduction
 1.1	Introduction
@@ -159,20 +113,6 @@ Introduction
 	Apps in Myanmar will involve various applications in Myanmar
 	Users can download the applications and also see details that related applications
 	Moreover, users can also see publisher’s details who were written these applications
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
 
 1.2	Background of the system
 Introduction to Git, Github and Github pages
